@@ -17,7 +17,7 @@ xattr -d com.apple.quarantine 4dsv_viewer_mac.app
 
 4dsv_viewer_mac.appを実行
 
-コンフィグファイルを選択すると動画ファイルが開く
+ファイル選択ウィンドウでコンフィグファイルを選択すると動画ファイルが開く
 
 ## 操作方法
 
