@@ -13,6 +13,12 @@ chmod a+x 4dsv_viewer_mac.app/Contents/MacOS/*
 xattr -d com.apple.quarantine 4dsv_viewer_mac.app
 ```
 
+## 実行方法
+
+4dsv_viewer_macを実行
+
+コンフィグファイルを選択すると動画ファイルが開く
+
 ## 操作方法
 
 キーボードで操作可能
